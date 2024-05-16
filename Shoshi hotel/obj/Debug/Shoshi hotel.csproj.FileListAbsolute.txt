@@ -1,0 +1,400 @@
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+D:\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+D:\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+D:\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.AssemblyReference.cache
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.directorextras.resources
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.directorpension.resources
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.lastform.resources
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Roomforreservation.resources
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.lastform.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Roomforreservation.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.customer.resources
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.customer.resources
+D:\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.AssemblyReference.cache
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.customer.resources
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.lastform.resources
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Roomforreservation.resources
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+C:\Users\user nc\Desktop\שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csprojAssemblyReference.cache
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.lastform.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Roomforreservation.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.AssemblyReference.cache
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.AssemblyReference.cache
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.lastform.resources
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Roomforreservation.resources
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+C:\Users\user nc\Desktop\שושנה\גיבוי\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.lastform.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.AssemblyReference.cache
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.lastform.resources
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Roomforreservation.resources
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+C:\Users\user nc\Desktop\שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.lastform.resources
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Roomforreservation.resources
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+E:\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csprojAssemblyReference.cache
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.AssemblyReference.cache
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.lastform.resources
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Roomforreservation.resources
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+T:\מדעי המחשב יב\מורה\פרויקטים\שושי יודלביץ לדעת חכמה-לעשות את השאילתה בטבלת הזמנות\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.AssemblyReference.cache
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+C:\Users\user nc\Desktop\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csprojAssemblyReference.cache
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.lastform.resources
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Roomforreservation.resources
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+E:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.AssemblyReference.cache
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.lastform.resources
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Roomforreservation.resources
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+D:\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.AssemblyReference.cache
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.AssemblyReference.cache
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+C:\Users\user nc\Desktop\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.AssemblyReference.cache
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.AssemblyReference.cache
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+D:\הפרויקט\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.AssemblyReference.cache
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+T:\מדעי המחשב יב\יודלביץ שושנה\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csprojAssemblyReference.cache
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+E:\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.AssemblyReference.cache
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+C:\Users\user nc\Desktop\הפרויקט מהמחשב\אחרון הכי טוב\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.AssemblyReference.cache
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+C:\Users\user nc\Desktop\הפרויקט המעודכן\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+T:\מדעי המחשב יב\יודלביץ שושנה\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csprojAssemblyReference.cache
+E:\חדששש\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+E:\חדששש\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+E:\חדששש\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+E:\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csprojAssemblyReference.cache
+E:\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+E:\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+E:\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+E:\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+E:\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+E:\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+E:\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+E:\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+E:\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+E:\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+E:\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+E:\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+E:\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe.config
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.exe
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\bin\Debug\Shoshi hotel.pdb
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.AssemblyReference.cache
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.extras.resources
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.f.resources
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.firstform.resources
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.ordering.resources
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.orders.resources
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.pension.resources
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.Priceperroom.resources
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Gui.rooms.resources
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi_hotel.Properties.Resources.resources
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.GenerateResource.cache
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.csproj.CoreCompileInputs.cache
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.exe
+C:\Users\user nc\Desktop\חדששש\Shoshi hotel\Shoshi hotel\obj\Debug\Shoshi hotel.pdb
